@@ -1,1 +1,3 @@
-# ex00
+# ex00 - Github exercise 
+
+HTML
